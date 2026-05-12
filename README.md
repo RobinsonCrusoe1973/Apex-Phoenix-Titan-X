@@ -2,7 +2,7 @@
 
 **Zero-Loss High Power Density Power Architecture**
 
-Revolutionary power unit delivering 736 kW continuous output in a compact 186 kg monolith.
+Revolutionary power unit delivering **736 kW continuous** in a compact **186 kg monolith**.
 
 ### Key Features
 - Zero-Seal technology (no traditional friction seals)
@@ -24,4 +24,4 @@ In exchange I offer significant equity and licensing opportunities.
 Broad applications in energy, propulsion, aviation, drones and heavy industry.
 
 ### Contact
-X: @ApexChiefAuthor
+X: [@ApexChiefAuthor](https://x.com/ApexChiefAuthor)
